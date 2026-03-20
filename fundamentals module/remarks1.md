@@ -21,3 +21,8 @@
 - WinSxS : windows component store, contains a copy of all windows components updates and service packs ().
 
 - ok now time for some cmd (i know nothing about it  hh)
+- well there's quite alot of commands we'll get to them, the lab currently ask for listing with dir (equivalent to ls), and there's tree too, let's follow the lab : "Find the non-standard directory in the C drive. Submit the contents of the flag file saved in this directory." ok:\
+    ![alt text](image-2.png)\
+    its the Academy folder lets list whats inside of it\
+    ![alt text](image-3.png)\
+    done
