@@ -15,4 +15,9 @@
     there goes the build number\
     and now the windows NT version, which is obviously 10 as you can see
 
-- let's continue learning, now the operating system structure, 
+- let's continue learning, now the operating system structure, skipping to important stuff, the Users folder, contains Default, and Public folders, Default is more like a template so whenever a new user is created it's based on the Default, the Public folder is accessible by all users and its like a place to share files, it's also shared over the network by default.
+- application data and settings per user are stored in AppData (minecraft mods ya3t), 
+- System, System32, SysWOW64 contain DLLs required for windows and the windows api, when programs ask to load a dll, the OS searches for it in these folders by default.
+- WinSxS : windows component store, contains a copy of all windows components updates and service packs ().
+
+- ok now time for some cmd (i know nothing about it  hh)
